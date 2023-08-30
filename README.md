@@ -1,2 +1,2 @@
-# python
-All of my python projects
+A full Report of the project is represented, from use cases to actual deployment.
+
